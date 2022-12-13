@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/5626b561280a42ecc50000d1
+
 def calc(x):
     n = 0
     out = 0
